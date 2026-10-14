@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: fb4fa65a33fc5774ebec47b9a33a4fae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2058518067819982440
+    second: floor1_enemy_0
+  - first:
+      213: -913643965582252127
+    second: floor1_enemy_1
+  - first:
+      213: 5733945370016877277
+    second: floor1_enemy_2
+  - first:
+      213: -8826654453474634049
+    second: floor1_enemy_3
+  - first:
+      213: -4544052455164248371
+    second: floor1_enemy_4
+  - first:
+      213: 7140726787871344470
+    second: floor1_enemy_5
+  - first:
+      213: -7754133253157094458
+    second: floor1_enemy_6
+  - first:
+      213: -6548385919674313462
+    second: floor1_enemy_7
+  - first:
+      213: -4848206091190668949
+    second: floor1_enemy_8
+  - first:
+      213: -5289734927193589115
+    second: floor1_enemy_9
+  - first:
+      213: 1971644466469609940
+    second: floor1_enemy_10
+  - first:
+      213: 7434804730096549216
+    second: floor1_enemy_11
+  - first:
+      213: -2693938994157235137
+    second: floor1_enemy_12
+  - first:
+      213: -2266803561258632967
+    second: floor1_enemy_13
+  - first:
+      213: 1195941846846173387
+    second: floor1_enemy_14
+  - first:
+      213: -641739697363819666
+    second: floor1_enemy_15
+  - first:
+      213: 204157460624259391
+    second: floor1_enemy_16
+  - first:
+      213: 9061400250960114389
+    second: floor1_enemy_17
+  - first:
+      213: 8848600533039805318
+    second: floor1_enemy_18
+  - first:
+      213: -6866535734509290595
+    second: floor1_enemy_19
+  - first:
+      213: -5680393264430908446
+    second: floor1_enemy_20
+  - first:
+      213: 3409725725699152789
+    second: floor1_enemy_21
+  - first:
+      213: -4168885383901345631
+    second: floor1_enemy_22
+  - first:
+      213: -2564993756668659775
+    second: floor1_enemy_23
+  - first:
+      213: -168982930065852321
+    second: floor1_enemy_24
+  - first:
+      213: 3270140945690055344
+    second: floor1_enemy_25
+  - first:
+      213: 4822846313120414161
+    second: floor1_enemy_26
+  - first:
+      213: 4410201510795153511
+    second: floor1_enemy_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floor1_enemy_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 651
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891dddb49bcae63e0800000000000000
+      internalID: -2058518067819982440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 439
+        width: 391
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a76a4c67a51253f0800000000000000
+      internalID: -913643965582252127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 604
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda0a5d2fe0139f40800000000000000
+      internalID: 5733945370016877277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 450
+        width: 308
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb656894a8c618580800000000000000
+      internalID: -8826654453474634049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_4
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 449
+        width: 342
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce71311e5840f0c0800000000000000
+      internalID: -4544052455164248371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_5
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 435
+        width: 318
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657003d2e25f81360800000000000000
+      internalID: 7140726787871344470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 246
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf680b3e8c36490800000000000000
+      internalID: -7754133253157094458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 335
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0594ad63b57f15a0800000000000000
+      internalID: -6548385919674313462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_8
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 220
+        width: 339
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61f1b83f36b7bcb0800000000000000
+      internalID: -4848206091190668949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_9
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 53
+        width: 442
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a36a42c161796b0800000000000000
+      internalID: -5289734927193589115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_10
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 37
+        width: 526
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1294f2230bc5b10800000000000000
+      internalID: 1971644466469609940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_11
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 443
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d7ccfb28bbd2760800000000000000
+      internalID: 7434804730096549216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_12
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 385
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f345fa602c43d9ad0800000000000000
+      internalID: -2693938994157235137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 275
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b69bcb22ba80e0800000000000000
+      internalID: -2266803561258632967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 373
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc07a49f5c6d89010800000000000000
+      internalID: 1195941846846173387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_15
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 355
+        width: 107
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63ec5435251817f0800000000000000
+      internalID: -641739697363819666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 272
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3931c6f02055d200800000000000000
+      internalID: 204157460624259391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 270
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2fc16d48f80cd70800000000000000
+      internalID: 9061400250960114389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 272
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6837b2b8d4b8cca70800000000000000
+      internalID: 8848600533039805318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 248
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b3c03412a25b0a0800000000000000
+      internalID: -6866535734509290595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 174
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebf2190c603b21b0800000000000000
+      internalID: -5680393264430908446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b1fc56b77c15f20800000000000000
+      internalID: 3409725725699152789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_22
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 335
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a80e3fb4d42526c0800000000000000
+      internalID: -4168885383901345631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c77baaa4cf476cd0800000000000000
+      internalID: -2564993756668659775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 118
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58f150abe6a7adf0800000000000000
+      internalID: -168982930065852321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2d0593ddfd16d20800000000000000
+      internalID: 3270140945690055344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 63
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d938d35b213ee240800000000000000
+      internalID: 4822846313120414161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor1_enemy_27
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 55
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76016d668ee243d30800000000000000
+      internalID: 4410201510795153511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      floor1_enemy_0: -2058518067819982440
+      floor1_enemy_1: -913643965582252127
+      floor1_enemy_10: 1971644466469609940
+      floor1_enemy_11: 7434804730096549216
+      floor1_enemy_12: -2693938994157235137
+      floor1_enemy_13: -2266803561258632967
+      floor1_enemy_14: 1195941846846173387
+      floor1_enemy_15: -641739697363819666
+      floor1_enemy_16: 204157460624259391
+      floor1_enemy_17: 9061400250960114389
+      floor1_enemy_18: 8848600533039805318
+      floor1_enemy_19: -6866535734509290595
+      floor1_enemy_2: 5733945370016877277
+      floor1_enemy_20: -5680393264430908446
+      floor1_enemy_21: 3409725725699152789
+      floor1_enemy_22: -4168885383901345631
+      floor1_enemy_23: -2564993756668659775
+      floor1_enemy_24: -168982930065852321
+      floor1_enemy_25: 3270140945690055344
+      floor1_enemy_26: 4822846313120414161
+      floor1_enemy_27: 4410201510795153511
+      floor1_enemy_3: -8826654453474634049
+      floor1_enemy_4: -4544052455164248371
+      floor1_enemy_5: 7140726787871344470
+      floor1_enemy_6: -7754133253157094458
+      floor1_enemy_7: -6548385919674313462
+      floor1_enemy_8: -4848206091190668949
+      floor1_enemy_9: -5289734927193589115
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
